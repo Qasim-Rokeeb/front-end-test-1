@@ -11,5 +11,7 @@ CODING TEST (20 Marks, 30 Minutes)
 Build the given Layout.
 ensure you do it well
 
+and submit clearly.
+
 Resources:
 Fonts: "Faster One" and "Rock Salt".
