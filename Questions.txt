@@ -9,6 +9,7 @@ List 5 types of CSS selectors (5 marks)
 
 CODING TEST (20 Marks, 30 Minutes)
 Build the given Layout.
+ensure you do it well
 
 Resources:
 Fonts: "Faster One" and "Rock Salt".
