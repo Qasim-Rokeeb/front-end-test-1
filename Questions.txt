@@ -12,6 +12,7 @@ Build the given Layout.
 ensure you do it well
 
 and submit clearly.
+esnure to finish within 30mins
 
 Resources:
 Fonts: "Faster One" and "Rock Salt".
