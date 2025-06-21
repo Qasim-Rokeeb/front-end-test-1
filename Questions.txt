@@ -12,6 +12,6 @@ Build the given Layout.
 ensure you do it well
 
 and submit clearly.
-
+also ensure you provide clarity and do it well
 Resources:
 Fonts: "Faster One" and "Rock Salt".
